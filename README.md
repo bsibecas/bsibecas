@@ -74,12 +74,6 @@ Applied Machine Learning techniques and computational optimization, studied as p
 
 ---
 
-## 👩‍🏫 Github Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsibecas&layout=compact&theme=default)
-
----
-
 ## 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/blancasibecas)
